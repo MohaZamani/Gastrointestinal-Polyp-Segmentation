@@ -1,0 +1,12 @@
+Kvasir-SEG/
+3595916.3626434.pdf
+
+*.log
+*.aux
+*.out
+*.gz
+*.sty
+*.ttf
+*.tikzstyles
+*.DS_Store
+*.toc
