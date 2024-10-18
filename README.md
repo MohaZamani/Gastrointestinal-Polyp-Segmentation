@@ -86,5 +86,3 @@ Visualizations of training and test performance can be found in the results sect
 2. Ronneberger, O., Fischer, P., & Brox, T. (2015). _U-Net: Convolutional Networks for Biomedical Image Segmentation_.
 3. Chen, L. C., Zhu, Y., Papandreou, G., Schroff, F., & Adam, H. (2018). _Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation_.
 4. Zhao, H., Shi, J., Qi, X., Wang, X., & Jia, J. (2017). _Pyramid Scene Parsing Network_.
-
-test
